@@ -1,1 +1,1 @@
-console.log('hello server from deploy')
+console.log('hello server from deploy from remote repo')
